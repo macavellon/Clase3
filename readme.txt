@@ -7,3 +7,4 @@ Para el repositorio:
      luego pongo git push -u origin main para cargar todo 
      la primera  vez que lo  hago  puedo poner git push --set-upstream origin main
      luego puedo poner  solo git push
+     El git pull es para  bajar los cambios que vienen de  github a gitbush
